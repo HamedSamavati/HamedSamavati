@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on enhancing my skills in Django and building projects that integrate front-end development with back-end capabilities. I’m looking to collaborate on projects that involve full-stack development, particularly those that can leverage my experience in machine learning and cloud technologies. I’m also interested in working with others who are passionate about software engineering and enjoy problem-solving. I’m looking for help with advanced front-end development techniques, especially with JavaScript frameworks, to build more dynamic and interactive user interfaces. Currently, I’m learning deeper aspects of front-end development along with machine learning, focusing on how these technologies can work together in innovative ways. Ask me about my experience with cloud solutions, network support, and my journey from IT support to software engineering. Fun fact: I’ve published a book in Farsi and have written several research papers on network security.
+A Software Engineer with experience in full-stack web development and a strong background in IT support. Proficient in designing and developing scalable web applications using modern front-end and back-end technologies. Experienced in cloud solutions, machine learning, and optimizing algorithm performance to meet complex business needs.
 
 
 ## 🌐 Socials:
